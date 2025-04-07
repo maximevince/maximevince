@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Stat A](https://github-readme-stats.vercel.app/api?username=maximevince&show_icons=true&include_all_commits=true&count_private=true)
+![Stat C](https://github-readme-stats.vercel.app/api/top-langs/?username=maximevince&show_icons=true&layout=compact)
+
 <!--
 **maximevince/maximevince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
